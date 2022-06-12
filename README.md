@@ -26,49 +26,49 @@ Current Stats (as of April 5th, 2022):
 ### Linux
 | Name | Difficulty |
 | ------ | --------- |
-| [Lame](LearningPlatforms/hackthebox/machines/easy/lame) | Easy |
-| [Bashed](LearningPlatforms/hackthebox/machines/easy/bashed) | Easy |
-| [Blocky](LearningPlatforms/hackthebox/machines/easy/blocky) | Easy |
-| [Shocker](LearningPlatforms/hackthebox/machines/easy/shocker) | Easy |
-| [Beep](LearningPlatforms/hackthebox/machines/easy/beep) | Easy |
-| [Mirai](LearningPlatforms/hackthebox/machines/easy/mirai) | Easy |
-| [ScriptKiddie](LearningPlatforms/hackthebox/machines/easy/scriptkiddie) | Easy |
-| [Armageddon](LearningPlatforms/hackthebox/machines/easy/armageddon) | Easy |
-| [Cap](LearningPlatforms/hackthebox/machines/easy/cap) | Easy |
-| [Knife](LearningPlatforms/hackthebox/machines/easy/knife) | Easy |
-| [Valentine](LearningPlatforms/hackthebox/machines/easy/valentine) | Easy |
-| [Validation](LearningPlatforms/hackthebox/machines/easy/validation) | Easy |
-| [SolidState](LearningPlatforms/hackthebox/machines/medium/solidstate) | Medium |
+| [Lame](Platforms/HacktheBox/machines/easy/lame) | Easy |
+| [Bashed](Platforms/HacktheBox/machines/easy/bashed) | Easy |
+| [Blocky](Platforms/HacktheBox/machines/easy/blocky) | Easy |
+| [Shocker](Platforms/HacktheBox/machines/easy/shocker) | Easy |
+| [Beep](Platforms/HacktheBox/machines/easy/beep) | Easy |
+| [Mirai](Platforms/HacktheBox/machines/easy/mirai) | Easy |
+| [ScriptKiddie](Platforms/HacktheBox/machines/easy/scriptkiddie) | Easy |
+| [Armageddon](Platforms/HacktheBox/machines/easy/armageddon) | Easy |
+| [Cap](Platforms/HacktheBox/machines/easy/cap) | Easy |
+| [Knife](Platforms/HacktheBox/machines/easy/knife) | Easy |
+| [Valentine](Platforms/HacktheBox/machines/easy/valentine) | Easy |
+| [Validation](Platforms/HacktheBox/machines/easy/validation) | Easy |
+| [SolidState](Platforms/HacktheBox/machines/medium/solidstate) | Medium |
 
 ### Windows
 | Name | Difficulty |
 | --- | --- |
-| [Legacy](LearningPlatforms/hackthebox/machines/easy/legacy) | Easy | 
-| [Blue](LearningPlatforms/hackthebox/machines/easy/blue) | Easy |
-| [Jerry](LearningPlatforms/hackthebox/machines/easy/jerry) | Easy |
-| [Optimum](LearningPlatforms/hackthebox/machines/easy/optimum) | Easy |
-| [Granny](LearningPlatforms/hackthebox/machines/easy/granny) | Easy | 
-| [Grandpa](LearningPlatforms/hackthebox/machines/easy/grandpa) | Easy |
-| [Devel](LearningPlatforms/hackthebox/machines/easy/devel) | Easy |
-| [Netmon](LearningPlatforms/hackthebox/machines/easy/netmon) | Easy |
-| [Bounty](LearningPlatforms/hackthebox/machines/easy/bounty) | Easy |
-| [Bastard](LearningPlatforms/hackthebox/machines/medium/bastard) | Medium |
+| [Legacy](Platforms/HacktheBox/machines/easy/legacy) | Easy | 
+| [Blue](Platforms/HacktheBox/machines/easy/blue) | Easy |
+| [Jerry](Platforms/HacktheBox/machines/easy/jerry) | Easy |
+| [Optimum](Platforms/HacktheBox/machines/easy/optimum) | Easy |
+| [Granny](Platforms/HacktheBox/machines/easy/granny) | Easy | 
+| [Grandpa](Platforms/HacktheBox/machines/easy/grandpa) | Easy |
+| [Devel](Platforms/HacktheBox/machines/easy/devel) | Easy |
+| [Netmon](Platforms/HacktheBox/machines/easy/netmon) | Easy |
+| [Bounty](Platforms/HacktheBox/machines/easy/bounty) | Easy |
+| [Bastard](Platforms/HacktheBox/machines/medium/bastard) | Medium |
 
 ### OpenBS
 | Name  | Difficulty |
 | --- | --- |
-| [Sense](LearningPlatforms/hackthebox/machines/easy/sense) | Easy |
-| [Poison](LearningPlatforms/hackthebox/machines/medium/poison) | Medium |
+| [Sense](Platforms/HacktheBox/machines/easy/sense) | Easy |
+| [Poison](Platforms/HacktheBox/machines/medium/poison) | Medium |
 
 ## CyberSecLabs
 Here are all the boxes I have done for CyberSecLabs that have writeups.
 
 Beginner Labs
-- [Shares](LearningPlatforms/CyberSecLabs/BeginnerLabs/shares)
+- [Shares](Platforms/CyberSecLabs/BeginnerLabs/shares)
 
 ## Proving Grounds
 Here are all the machines I have done for Offensive Security's: Proving Grounds
 
 Intermediate
-- [BTRSys2.1](LearningPlatforms/ProvingGrounds/BTRSys2.1)
-- [Deception](LearningPlatforms/ProvingGrounds/Deception)
+- [BTRSys2.1](Platforms/ProvingGrounds/BTRSys2.1)
+- [Deception](Platforms/ProvingGrounds/Deception)
