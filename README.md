@@ -12,62 +12,81 @@ These are the various CTF competitions I've been apart of. Not all are included 
 - [PicoCTF](https://play.picoctf.org/login)
 	- PicoCTF2022 - Rank 1598 - 5500/14600
 
+## Certifications
+I plan on getting every Offensive Security Certification before I turn 30. Here is my progress:
+
+### Penetration Testing
+- [] PEN-200 OSCP (In Progress)
+- [] PEN-210 OSWP
+- [] PEN-300 OSEP
+
+### Web Application Testing
+- [] WEB-200 OSWA
+- [] WEB-300 OSWE
+
+### Exploit Development
+- [] EXP-301 OSED
+- [] EXP-312 OSMR
+- [] EXP-401 OSEE
+
+### Security Operations
+- [] SOC-200 OSDA
+
 ## HacktheBox
 Here are all the boxes I have done on HacktheBox that have writeups.
 
-Check me out: **Kaz00ie**
+Check me out: **xDefault**
 
-Current Stats (as of April 5th, 2022):
-- Global Ranking: 516
-- User Owns: 33
-- System Owns: 27
+Current Stats (as of Jue 15th, 2022):
+- Global Ranking: 478
+- User Owns: 38
+- System Owns: 30
 
 ### Linux
-| Name | Difficulty |
+| Difficulty | Name |
 | ------ | --------- |
-| [Lame](Platforms/HacktheBox/machines/easy/lame) | Easy |
-| [Bashed](Platforms/HacktheBox/machines/easy/bashed) | Easy |
-| [Blocky](Platforms/HacktheBox/machines/easy/blocky) | Easy |
-| [Shocker](Platforms/HacktheBox/machines/easy/shocker) | Easy |
-| [Beep](Platforms/HacktheBox/machines/easy/beep) | Easy |
-| [Mirai](Platforms/HacktheBox/machines/easy/mirai) | Easy |
-| [ScriptKiddie](Platforms/HacktheBox/machines/easy/scriptkiddie) | Easy |
-| [Armageddon](Platforms/HacktheBox/machines/easy/armageddon) | Easy |
-| [Cap](Platforms/HacktheBox/machines/easy/cap) | Easy |
-| [Knife](Platforms/HacktheBox/machines/easy/knife) | Easy |
-| [Valentine](Platforms/HacktheBox/machines/easy/valentine) | Easy |
-| [Validation](Platforms/HacktheBox/machines/easy/validation) | Easy |
-| [SolidState](Platforms/HacktheBox/machines/medium/solidstate) | Medium |
+| Easy | |
+| | [Lame](Platforms/HacktheBox/machines/easy/lame) |
+| | [Bashed](Platforms/HacktheBox/machines/easy/bashed) |
+| | [Blocky](Platforms/HacktheBox/machines/easy/blocky) |
+| | [Shocker](Platforms/HacktheBox/machines/easy/shocker) |
+| | [Beep](Platforms/HacktheBox/machines/easy/beep) |
+| | [Mirai](Platforms/HacktheBox/machines/easy/mirai) |
+| | [ScriptKiddie](Platforms/HacktheBox/machines/easy/scriptkiddie) |
+| | [Armageddon](Platforms/HacktheBox/machines/easy/armageddon) |
+| | [Cap](Platforms/HacktheBox/machines/easy/cap) |
+| | [Knife](Platforms/HacktheBox/machines/easy/knife) |
+| | [Valentine](Platforms/HacktheBox/machines/easy/valentine) |
+| | [Validation](Platforms/HacktheBox/machines/easy/validation) |
+| | [Bounty](Platforms/HacktheBox/machines/easy/bounty) |
+| | [Bastion](Platforms/HacktheBox/machines/easy/bastion) |
+| | [Arctic](Platforms/HacktheBox/machines/easy/arctic/) |
+| Medium |  |
+| | [SolidState](Platforms/HacktheBox/machines/medium/solidstate) |
+| | [Popcorn](Platforms/HacktheBox/machines/medium/popcorn/) |
+| | [Cronos](Platforms/HacktheBox/machines/medium/cronos/) |
 
 ### Windows
-| Name | Difficulty |
+| Difficulty | Name |
 | --- | --- |
-| [Legacy](Platforms/HacktheBox/machines/easy/legacy) | Easy | 
-| [Blue](Platforms/HacktheBox/machines/easy/blue) | Easy |
-| [Jerry](Platforms/HacktheBox/machines/easy/jerry) | Easy |
-| [Optimum](Platforms/HacktheBox/machines/easy/optimum) | Easy |
-| [Granny](Platforms/HacktheBox/machines/easy/granny) | Easy | 
-| [Grandpa](Platforms/HacktheBox/machines/easy/grandpa) | Easy |
-| [Devel](Platforms/HacktheBox/machines/easy/devel) | Easy |
-| [Netmon](Platforms/HacktheBox/machines/easy/netmon) | Easy |
-| [Bounty](Platforms/HacktheBox/machines/easy/bounty) | Easy |
-| [Bastard](Platforms/HacktheBox/machines/medium/bastard) | Medium |
+| Easy | |
+| | [Legacy](Platforms/HacktheBox/machines/easy/legacy) |
+| | [Blue](Platforms/HacktheBox/machines/easy/blue) |
+| | [Jerry](Platforms/HacktheBox/machines/easy/jerry) |
+| | [Optimum](Platforms/HacktheBox/machines/easy/optimum) |
+| | [Granny](Platforms/HacktheBox/machines/easy/granny) | 
+| | [Grandpa](Platforms/HacktheBox/machines/easy/grandpa) |
+| | [Devel](Platforms/HacktheBox/machines/easy/devel) |
+| | [Netmon](Platforms/HacktheBox/machines/easy/netmon) |
+| |[Bounty](Platforms/HacktheBox/machines/easy/bounty) |
+| Medium | |
+| | [Bastard](Platforms/HacktheBox/machines/medium/bastard) |
 
-### OpenBS
-| Name  | Difficulty |
+### OpenBSD
+| Difficulty  | Name |
 | --- | --- |
-| [Sense](Platforms/HacktheBox/machines/easy/sense) | Easy |
-| [Poison](Platforms/HacktheBox/machines/medium/poison) | Medium |
+| Easy | |
+| | [Sense](Platforms/HacktheBox/machines/easy/sense) |
+| Medium | |
+| | [Poison](Platforms/HacktheBox/machines/medium/poison) |
 
-## CyberSecLabs
-Here are all the boxes I have done for CyberSecLabs that have writeups.
-
-Beginner Labs
-- [Shares](Platforms/CyberSecLabs/BeginnerLabs/shares)
-
-## Proving Grounds
-Here are all the machines I have done for Offensive Security's: Proving Grounds
-
-Intermediate
-- [BTRSys2.1](Platforms/ProvingGrounds/BTRSys2.1)
-- [Deception](Platforms/ProvingGrounds/Deception)
