@@ -1,0 +1,14 @@
+hahaexploitgobrrr 0x080487d6
+
+
+void i(){
+	char response;
+  	puts("You're leaving already(Y/N)?");
+	scanf(" %c", &response);
+	if(toupper(response)=='Y'){
+		puts("Bye!");
+		free(user); // Free user
+	}else{
+		puts("Ok. Get premium membership please!");
+	}
+}
